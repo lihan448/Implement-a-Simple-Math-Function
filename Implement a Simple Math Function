@@ -1,0 +1,42 @@
+### Task Breakdown (Team Collaboration)
+
+- [ ] **@alice** — Implement the main function logic  
+- [ ] **@bob** — Handle input validation and error cases  
+- [ ] **@charlie** — Write unit tests for the function  
+- [ ] **@diana** — Review the code and improve documentation  
+
+---
+
+### Function Requirements
+- The function should accept numeric input
+- Return a calculated result (e.g. square, absolute value, or sum)
+- Handle invalid input gracefully
+
+---
+
+### Acceptance Criteria
+- Function is implemented in Python
+- Code is clean and readable
+- Unit tests are included
+- At least one team member reviews the code
+
+---
+
+### Implementation Notes
+- Use a single function
+- Keep the logic simple
+- Follow basic Python style guidelines
+
+---
+
+### Related Pull Requests
+- [ ] PR: Add function implementation
+- [ ] PR: Add unit tests
+- [ ] PR: Documentation updates
+
+---
+
+### Project Info
+- **Project**: Scrum: Function Implementation
+- **Sprint**: Sprint 1 — Implementation
+- **Status**: Todo
